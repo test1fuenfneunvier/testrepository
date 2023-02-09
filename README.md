@@ -1,3 +1,3 @@
 # testrepository
-yoyo
+yoyo \n
 hello world!
